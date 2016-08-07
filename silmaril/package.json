@@ -1,0 +1,11 @@
+{
+  "name": "silmaril",
+  "version": "0.0.1",
+  "description": "Access PostgreSQL and controls Telperion using RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "perillamint",
+  "license": "GPL-3.0"
+}

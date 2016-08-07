@@ -1,0 +1,11 @@
+{
+  "name": "laurelin",
+  "version": "0.0.1",
+  "description": "Telperion web adm console",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "perillamint",
+  "license": "GPL-3.0"
+}
