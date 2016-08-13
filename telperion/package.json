@@ -1,7 +1,7 @@
 {
-  "name": "silmaril",
+  "name": "telperion",
   "version": "0.0.1",
-  "description": "Access PostgreSQL and controls Telperion using RESTful API",
+  "description": "OpenResty launcher and configurator",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
