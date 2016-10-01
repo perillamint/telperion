@@ -1,0 +1,8 @@
+[package]
+name = "telperion"
+version = "0.1.0"
+authors = ["perillamint <perillamint@gentoo.moe>"]
+
+[dependencies]
+iron = "0.4.0"
+router = "0.2.0"
